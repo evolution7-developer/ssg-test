@@ -1,0 +1,10 @@
+isPublic: false
+name: 'Private Schema'
+scope:
+  - 'sites.b13e81b8-5047-425a-828c-10af876ad72e:read' # SSG Test
+  - 'sections.12b650c9-c4f0-4ade-9190-01051f0f3dc5:read' # Blog
+  - 'entrytypes.f18728db-6737-4a60-8bd9-0df8781a02eb:read' # Default
+  - 'sections.975df9f3-55b6-4a28-933d-e1848c7327b0:read' # Homepage
+  - 'entrytypes.5bccd79e-f204-4aa6-b1da-5a162a677e1e:read' # Homepage
+  - 'volumes.b7be185c-6661-4bd0-8834-dadf7c0691b3:read' # Images
+  - 'navigationNavs.36c988ce-6299-4926-8c0a-30096912ecf0:read' # Primary Navigation

@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: false
+handle: homepage
+name: Homepage
+propagationMethod: all
+siteSettings:
+  b13e81b8-5047-425a-828c-10af876ad72e: # SSG Test
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+type: single

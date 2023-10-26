@@ -1,0 +1,87 @@
+fieldLayouts:
+  ccd1a014-c6b5-4a35-9f22-78a816599082:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: a58088ff-d2b4-4852-a912-2c120326f97a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 3273d82c-753a-4500-9df8-b77ca1bbeb03 # Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4d4cb9b6-3223-447f-9fa2-99ba40b1ac35
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b746380d-eab8-4bd5-9d10-dbf137d40f57 # Plain Text
+            instructions: null
+            label: Summary
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 13c18805-7456-4f0a-b8d1-19fb7255a7b9
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 51dd8a7b-65ad-47e9-afdb-ea20e4392ce1
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: 277a7ef0-4ac4-4256-92cc-b3c8ae279812 # Page Builder
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6db71518-4e28-453c-8300-930ac4cd47a7
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 1c044397-29c9-44cf-925a-836ac092cc97
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 12b650c9-c4f0-4ade-9190-01051f0f3dc5 # Blog
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

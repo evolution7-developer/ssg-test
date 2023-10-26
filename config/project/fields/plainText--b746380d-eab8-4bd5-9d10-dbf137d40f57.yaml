@@ -1,0 +1,19 @@
+columnSuffix: usgitrqu
+contentColumnType: text
+fieldGroup: 19002bc2-7cd2-4784-93d7-6aa6f7efcf87 # Common
+handle: plainText
+instructions: null
+name: 'Plain Text'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

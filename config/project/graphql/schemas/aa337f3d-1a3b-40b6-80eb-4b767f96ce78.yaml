@@ -1,0 +1,4 @@
+isPublic: true
+name: 'Public Schema'
+scope:
+  - 'sites.b13e81b8-5047-425a-828c-10af876ad72e:read' # SSG Test

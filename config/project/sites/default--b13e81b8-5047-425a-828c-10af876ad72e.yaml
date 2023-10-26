@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-AU
+name: 'SSG Test'
+primary: true
+siteGroup: f926c487-52fd-46b2-a4ae-9eec676dd766 # SSG Test
+sortOrder: 1

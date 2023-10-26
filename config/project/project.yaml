@@ -1,0 +1,52 @@
+dateModified: 1698336720
+email:
+  fromEmail: matt@evolution7.com.au
+  fromName: 'SSG Test'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  localFilesystem:
+    hasUrls: true
+    name: 'Local Filesystem'
+    settings:
+      path: '@webroot/uploads'
+    type: craft\fs\Local
+    url: '@web/uploads'
+meta:
+  __names__:
+    5bccd79e-f204-4aa6-b1da-5a162a677e1e: Homepage # Homepage
+    8a985401-5d48-489f-9e9b-58b5aaa07e52: Image # Image
+    12b650c9-c4f0-4ade-9190-01051f0f3dc5: Blog # Blog
+    12d36f7b-813c-450f-8597-dea4dfc269d9: Caption # Caption
+    36c988ce-6299-4926-8c0a-30096912ecf0: 'Primary Navigation' # Primary Navigation
+    58acc554-2678-426b-b8e6-513cd0924693: Source # Source
+    277a7ef0-4ac4-4256-92cc-b3c8ae279812: 'Page Builder' # Page Builder
+    975df9f3-55b6-4a28-933d-e1848c7327b0: Homepage # Homepage
+    3273d82c-753a-4500-9df8-b77ca1bbeb03: Image # Image
+    19002bc2-7cd2-4784-93d7-6aa6f7efcf87: Common # Common
+    aa337f3d-1a3b-40b6-80eb-4b767f96ce78: 'Public Schema' # Public Schema
+    aafd5e18-4ae8-47f0-a290-19e792563025: Editor # Editor
+    b7be185c-6661-4bd0-8834-dadf7c0691b3: Images # Images
+    b13e81b8-5047-425a-828c-10af876ad72e: 'SSG Test' # SSG Test
+    b746380d-eab8-4bd5-9d10-dbf137d40f57: 'Plain Text' # Plain Text
+    bdca49f0-dabf-493e-abda-63e6345ec9f7: Articles # Articles
+    c67f7414-3efa-41ee-949c-dbb06b8d627d: Text # Text
+    eccf2dc9-ba22-4391-be5f-c55ee546a421: Standard # Standard
+    ee6b1b05-c146-4fcb-8ca2-5d8a375df215: Simple # Simple
+    f926c487-52fd-46b2-a4ae-9eec676dd766: 'SSG Test' # SSG Test
+    f6110eed-95ad-43b8-8f3e-3bf66100f763: 'Private Schema' # Private Schema
+    f18728db-6737-4a60-8bd9-0df8781a02eb: Default # Default
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  navigation:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.7
+system:
+  edition: pro
+  live: true
+  name: 'SSG Test'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
